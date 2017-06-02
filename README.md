@@ -12,6 +12,7 @@ This is a collection of resources I find over time that I feel are good resource
   * [Elixir](#elixir)
 * [Systems Level Programming](#systems-level-programming)
   * [Operating Systems](#operating-systems)
+* [Compilers](#compilers)
 * [DevOps](#devops)
   * [Containers](#containers)
 * [Game Development](#gave-development)
@@ -33,6 +34,9 @@ This is a collection of resources I find over time that I feel are good resource
 [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) - [Remzi H. Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/) and [Andrea C. Arpaci-Dusseau](http://pages.cs.wisc.edu/~dusseau/)
 
 
+## Compilers
+
+[The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js) - [James Kyle](https://github.com/thejameskyle)
 ## DevOps
 
 ### Containers
