@@ -36,6 +36,7 @@ This is a collection of resources I find over time that I feel are good resource
 
 ## Compilers
 
+[Programming Language and Compilers Reading List](http://www.jonathanturner.org/2016/10/programming-language-and-compilers-reading-list.html) - [Jonathan Turner](http://www.jonathanturner.org) (Basic Article with links)
 [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js) - [James Kyle](https://github.com/thejameskyle)
 ## DevOps
 
